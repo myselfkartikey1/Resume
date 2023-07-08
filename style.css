@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#main{
+    font-family: 'Ubuntu', sans-serif;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(164, 205, 30);
+    margin: auto;
+    margin-top: 70px;
+    box-shadow:0px 0px 20px blue;
+    border-radius:15px ;
+}
+#he{
+    text-align: center;
+    padding-top: 50px;
+}
+#start{
+    margin: 50px 52px;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+    background-color:lightblue;
+    box-shadow: 10px 10px 10px blue;
+}
